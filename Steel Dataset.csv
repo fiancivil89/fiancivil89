@@ -1,5 +1,4 @@
 Location;Facility;Facility_ID;Facility_Type;Ss;S1;PGA;Soil Type;R;Omega;Height;Length;Width;Weight
-string;string;string;string;float;float;float;string;float;float;float;float;float;float
 Lombok;BC1;Lombok-BC1;Conveyor Gallery;1.45;0.45;0.65;SD;6;2;22.35;138;6;192.36
 Lombok;BC2;Lombok-BC2;Conveyor Gallery;1.45;0.45;0.65;SD;1.5;1;11.8;38;3;20.01
 Lombok;BC3;Lombok-BC3;Conveyor Gallery;1.45;0.45;0.65;SD;3.25;2;12.75;14;5;12.46
