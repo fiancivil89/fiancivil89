@@ -1,131 +1,131 @@
-Location,Facility,Facility_ID,Facility_Type,Ss,S1,PGA,Soil Type,R,Omega,Height,Length,Width,Weight
-Lombok,BC1,Lombok-BC1,Conveyor Gallery,1.45,0.45,0.65,SD,6,2,22.35,138,6,192.36
-Lombok,BC2,Lombok-BC2,Conveyor Gallery,1.45,0.45,0.65,SD,1.5,1,11.8,38,3,20.01
-Lombok,BC3,Lombok-BC3,Conveyor Gallery,1.45,0.45,0.65,SD,3.25,2,12.75,14,5,12.46
-Lombok,BC4,Lombok-BC4,Conveyor Gallery,1.45,0.45,0.65,SD,6,2,40.1,63,5,228.57
-Lombok,BC5,Lombok-BC5,Conveyor Gallery,1.45,0.45,0.65,SD,6,2,2,145,5,29.58
-Lombok,BC6,Lombok-BC6,Conveyor Gallery,1.45,0.45,0.65,SD,6,2,26,45,3,54.32
-Lombok,BC7 Emergency Conveyor & Feeder,Lombok-BC7 Emergency Conveyor & Feeder,Conveyor Gallery,1.45,0.45,0.65,SD,6,2,6.45,38,3,13.42
-Lombok,Piperack 1,Lombok-Piperack 1,Piperack (Heavy),1.45,0.45,0.65,SD,3.25,2,18.75,100,4,168.00
-Lombok,Piperack 2,Lombok-Piperack 2,Piperack (Heavy),1.45,0.45,0.65,SD,3.25,2,14,35,4,24.57
-Lombok,Piperack 3,Lombok-Piperack 3,Piperack (Medium),1.45,0.45,0.65,SD,1.5,1,5,42,3,15.09
-Lombok,Piperack 4,Lombok-Piperack 4,Piperack (Light),1.45,0.45,0.65,SD,1.5,1,3.5,20,3,6.54
-Lombok,Piperack 5,Lombok-Piperack 5,Piperack (Light),1.45,0.45,0.65,SD,1.5,1,5,40,3,13.70
-Lombok,Piperack 6,Lombok-Piperack 6,Piperack (Light),1.45,0.45,0.65,SD,1.5,1,6.5,23,3,6.24
-Lombok,Transfer Tower 1,Lombok-Transfer Tower 1,Transfer Tower,1.45,0.45,0.65,SD,6,2,27.6,9,8,102.88
-Lombok,Transfer Tower 2,Lombok-Transfer Tower 2,Transfer Tower,1.45,0.45,0.65,SD,6,2,12.75,6,6,26.68
-Lombok,Transfer Tower 3,Lombok-Transfer Tower 3,Transfer Tower,1.45,0.45,0.65,SD,6,2,47.61,9,8,179.78
-Lombok,Steam Turbine Building,Lombok-Steam Turbine Building,Turbine Hall,1.45,0.45,0.65,SD,6,2,27.4,81,27,915.09
-Lombok,Boiler House,Lombok-Boiler House,Boiler House,1.45,0.45,0.65,SD,3.25,2,45,45.4,30,2159.35
-Lombok,Bulldozer garage,Lombok-Bulldozer garage,Shelter,1.45,0.45,0.65,SD,1.5,1,8.3,20,10,19.28
-Lombok,Chemical Acid Alkali Room,Lombok-Chemical Acid Alkali Room,Shelter,1.45,0.45,0.65,SD,1.5,1,6.27,24,15,5.70
-Lombok,Chlorination Building,Lombok-Chlorination Building,Shelter,1.45,0.45,0.65,SD,1.5,1,7.74,15,8,12.92
-Lombok,Demineralization BWRO & SWRO shelter,Lombok-Demineralization BWRO & SWRO shelter,Shelter,1.45,0.45,0.65,SD,1.5,1,6.8,18,9,12.32
-Lombok,Fire Water Pump Shelter,Lombok-Fire Water Pump Shelter,Shelter,1.45,0.45,0.65,SD,1.5,1,4.2,14,7,5.26
-Lombok,Fly Ash Compressor Shelter,Lombok-Fly Ash Compressor Shelter,Shelter,1.45,0.45,0.65,SD,1.5,1,5.44,13.5,5,4.23
-Lombok,Fuel Oil Shelter,Lombok-Fuel Oil Shelter,Shelter,1.45,0.45,0.65,SD,1.5,1,4.99,7,5.5,3.40
-Lombok,IA/SA compressor shelter,Lombok-IA/SA compressor shelter,Shelter,1.45,0.45,0.65,SD,1.5,1,5,10,7,3.85
-Palembang,BC1,Palembang-BC1,Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,22.35,138,6,182.74
-Palembang,BC2,Palembang-BC2,Conveyor Gallery,0.44,0.51,0.146,SE,1.5,1,11.8,38,3,17.41
-Palembang,BC3,Palembang-BC3,Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,12.75,14,5,11.84
-Palembang,BC4,Palembang-BC4,Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,40.1,63,5,198.86
-Palembang,BC5,Palembang-BC5,Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,2,145,5,28.10
-Palembang,BC6,Palembang-BC6,Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,26,45,3,47.26
-Palembang,BC7 Emergency Conveyor & Feeder,Palembang-BC7 Emergency Conveyor & Feeder,Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,6.45,38,3,12.75
-Palembang,Piperack 1,Palembang-Piperack 1,Piperack (Heavy),0.44,0.51,0.146,SE,2.5,2,18.75,100,4,146.16
-Palembang,Piperack 2,Palembang-Piperack 2,Piperack (Heavy),0.44,0.51,0.146,SE,2.5,2,14,35,4,23.34
-Palembang,Piperack 3,Palembang-Piperack 3,Piperack (Medium),0.44,0.51,0.146,SE,1.5,1,5,42,3,13.13
-Palembang,Piperack 4,Palembang-Piperack 4,Piperack (Light),0.44,0.51,0.146,SE,1.5,1,3.5,20,3,6.21
-Palembang,Piperack 5,Palembang-Piperack 5,Piperack (Light),0.44,0.51,0.146,SE,1.5,1,5,40,3,11.92
-Palembang,Piperack 6,Palembang-Piperack 6,Piperack (Light),0.44,0.51,0.146,SE,1.5,1,6.5,23,3,5.93
-Palembang,Transfer Tower 1,Palembang-Transfer Tower 1,Transfer Tower,0.44,0.51,0.146,SE,2.5,2,27.6,9,8,89.51
-Palembang,Transfer Tower 2,Palembang-Transfer Tower 2,Transfer Tower,0.44,0.51,0.146,SE,2.5,2,12.75,6,6,25.35
-Palembang,Transfer Tower 3,Palembang-Transfer Tower 3,Transfer Tower,0.44,0.51,0.146,SE,2.5,2,47.61,9,8,156.41
-Palembang,Steam Turbine Building,Palembang-Steam Turbine Building,Turbine Hall,0.44,0.51,0.146,SE,2.5,2,27.4,81,27,869.34
-Palembang,Boiler House,Palembang-Boiler House,Boiler House,0.44,0.51,0.146,SE,2.5,2,45,45.4,30,1878.63
-Palembang,Bulldozer garage,Palembang-Bulldozer garage,Shelter,0.44,0.51,0.146,SE,1.5,1,8.3,20,10,18.32
-Palembang,Chemical Acid Alkali Room,Palembang-Chemical Acid Alkali Room,Shelter,0.44,0.51,0.146,SE,1.5,1,6.27,24,15,4.96
-Palembang,Chlorination Building,Palembang-Chlorination Building,Shelter,0.44,0.51,0.146,SE,1.5,1,7.74,15,8,12.27
-Palembang,Demineralization BWRO & SWRO shelter,Palembang-Demineralization BWRO & SWRO shelter,Shelter,0.44,0.51,0.146,SE,1.5,1,6.8,18,9,10.72
-Palembang,Fire Water Pump Shelter,Palembang-Fire Water Pump Shelter,Shelter,0.44,0.51,0.146,SE,1.5,1,4.2,14,7,5.00
-Palembang,Fly Ash Compressor Shelter,Palembang-Fly Ash Compressor Shelter,Shelter,0.44,0.51,0.146,SE,1.5,1,5.44,13.5,5,3.68
-Palembang,Fuel Oil Shelter,Palembang-Fuel Oil Shelter,Shelter,0.44,0.51,0.146,SE,1.5,1,4.99,7,5.5,3.23
-Palembang,IA/SA compressor shelter,Palembang-IA/SA compressor shelter,Shelter,0.44,0.51,0.146,SE,1.5,1,5,10,7,3.35
-Bontang,BC1,Bontang-BC1,Conveyor Gallery,0.34,0.35,0.103,SE,6,2,22.35,138,6,180.82
-Bontang,BC2,Bontang-BC2,Conveyor Gallery,0.34,0.35,0.103,SE,1.5,1,11.8,38,3,18.61
-Bontang,BC3,Bontang-BC3,Conveyor Gallery,0.34,0.35,0.103,SE,3.25,2,12.75,14,5,11.71
-Bontang,BC4,Bontang-BC4,Conveyor Gallery,0.34,0.35,0.103,SE,6,2,40.1,63,5,212.57
-Bontang,BC5,Bontang-BC5,Conveyor Gallery,0.34,0.35,0.103,SE,6,2,2,145,5,27.81
-Bontang,BC6,Bontang-BC6,Conveyor Gallery,0.34,0.35,0.103,SE,6,2,26,45,3,50.52
-Bontang,BC7 Emergency Conveyor & Feeder,Bontang-BC7 Emergency Conveyor & Feeder,Conveyor Gallery,0.34,0.35,0.103,SE,6,2,6.45,38,3,12.61
-Bontang,Piperack 1,Bontang-Piperack 1,Piperack (Heavy),0.34,0.35,0.103,SE,3.25,2,18.75,100,4,156.24
-Bontang,Piperack 2,Bontang-Piperack 2,Piperack (Heavy),0.34,0.35,0.103,SE,3.25,2,14,35,4,23.10
-Bontang,Piperack 3,Bontang-Piperack 3,Piperack (Medium),0.34,0.35,0.103,SE,1.5,1,5,42,3,14.03
-Bontang,Piperack 4,Bontang-Piperack 4,Piperack (Light),0.34,0.35,0.103,SE,1.5,1,3.5,20,3,6.15
-Bontang,Piperack 5,Bontang-Piperack 5,Piperack (Light),0.34,0.35,0.103,SE,1.5,1,5,40,3,12.74
-Bontang,Piperack 6,Bontang-Piperack 6,Piperack (Light),0.34,0.35,0.103,SE,1.5,1,6.5,23,3,5.87
-Bontang,Transfer Tower 1,Bontang-Transfer Tower 1,Transfer Tower,0.34,0.35,0.103,SE,6,2,27.6,9,8,95.68
-Bontang,Transfer Tower 2,Bontang-Transfer Tower 2,Transfer Tower,0.34,0.35,0.103,SE,6,2,12.75,6,6,25.08
-Bontang,Transfer Tower 3,Bontang-Transfer Tower 3,Transfer Tower,0.34,0.35,0.103,SE,6,2,47.61,9,8,167.20
-Bontang,Steam Turbine Building,Bontang-Steam Turbine Building,Turbine Hall,0.34,0.35,0.103,SE,6,2,27.4,81,27,860.18
-Bontang,Boiler House,Bontang-Boiler House,Boiler House,0.34,0.35,0.103,SE,3.25,2,45,45.4,30,2008.20
-Bontang,Bulldozer garage,Bontang-Bulldozer garage,Shelter,0.34,0.35,0.103,SE,1.5,1,8.3,20,10,18.12
-Bontang,Chemical Acid Alkali Room,Bontang-Chemical Acid Alkali Room,Shelter,0.34,0.35,0.103,SE,1.5,1,6.27,24,15,5.30
-Bontang,Chlorination Building,Bontang-Chlorination Building,Shelter,0.34,0.35,0.103,SE,1.5,1,7.74,15,8,12.14
-Bontang,Demineralization BWRO & SWRO shelter,Bontang-Demineralization BWRO & SWRO shelter,Shelter,0.34,0.35,0.103,SE,1.5,1,6.8,18,9,11.46
-Bontang,Fire Water Pump Shelter,Bontang-Fire Water Pump Shelter,Shelter,0.34,0.35,0.103,SE,1.5,1,4.2,14,7,4.94
-Bontang,Fly Ash Compressor Shelter,Bontang-Fly Ash Compressor Shelter,Shelter,0.34,0.35,0.103,SE,1.5,1,5.44,13.5,5,3.93
-Bontang,Fuel Oil Shelter,Bontang-Fuel Oil Shelter,Shelter,0.34,0.35,0.103,SE,1.5,1,4.99,7,5.5,3.20
-Bontang,IA/SA compressor shelter,Bontang-IA/SA compressor shelter,Shelter,0.34,0.35,0.103,SE,1.5,1,5,10,7,3.58
-Cikampek,BC1,Cikampek-BC1,Conveyor Gallery,0.47,0.19,0.3625,SB,6,2,22.35,138,6,188.51
-Cikampek,BC2,Cikampek-BC2,Conveyor Gallery,0.47,0.19,0.3625,SB,1.5,1,11.8,38,3,19.21
-Cikampek,BC3,Cikampek-BC3,Conveyor Gallery,0.47,0.19,0.3625,SB,3.25,2,12.75,14,5,12.21
-Cikampek,BC4,Cikampek-BC4,Conveyor Gallery,0.47,0.19,0.3625,SB,6,2,40.1,63,5,219.43
-Cikampek,BC5,Cikampek-BC5,Conveyor Gallery,0.47,0.19,0.3625,SB,6,2,2,145,5,28.99
-Cikampek,BC6,Cikampek-BC6,Conveyor Gallery,0.47,0.19,0.3625,SB,6,2,26,45,3,52.15
-Cikampek,BC7 Emergency Conveyor & Feeder,Cikampek-BC7 Emergency Conveyor & Feeder,Conveyor Gallery,0.47,0.19,0.3625,SB,6,2,6.45,38,3,13.15
-Cikampek,Piperack 1,Cikampek-Piperack 1,Piperack (Heavy),0.47,0.19,0.3625,SB,3.25,2,18.75,100,4,161.28
-Cikampek,Piperack 2,Cikampek-Piperack 2,Piperack (Heavy),0.47,0.19,0.3625,SB,3.25,2,14,35,4,24.08
-Cikampek,Piperack 3,Cikampek-Piperack 3,Piperack (Medium),0.47,0.19,0.3625,SB,1.5,1,5,42,3,14.49
-Cikampek,Piperack 4,Cikampek-Piperack 4,Piperack (Light),0.47,0.19,0.3625,SB,1.5,1,3.5,20,3,6.41
-Cikampek,Piperack 5,Cikampek-Piperack 5,Piperack (Light),0.47,0.19,0.3625,SB,1.5,1,5,40,3,13.15
-Cikampek,Piperack 6,Cikampek-Piperack 6,Piperack (Light),0.47,0.19,0.3625,SB,1.5,1,6.5,23,3,6.12
-Cikampek,Transfer Tower 1,Cikampek-Transfer Tower 1,Transfer Tower,0.47,0.19,0.3625,SB,6,2,27.6,9,8,98.76
-Cikampek,Transfer Tower 2,Cikampek-Transfer Tower 2,Transfer Tower,0.47,0.19,0.3625,SB,6,2,12.75,6,6,26.15
-Cikampek,Transfer Tower 3,Cikampek-Transfer Tower 3,Transfer Tower,0.47,0.19,0.3625,SB,6,2,47.61,9,8,172.59
-Cikampek,Steam Turbine Building,Cikampek-Steam Turbine Building,Turbine Hall,0.47,0.19,0.3625,SB,6,2,27.4,81,27,896.79
-Cikampek,Boiler House,Cikampek-Boiler House,Boiler House,0.47,0.19,0.3625,SB,3.25,2,45,45.4,30,2072.98
-Cikampek,Bulldozer garage,Cikampek-Bulldozer garage,Shelter,0.47,0.19,0.3625,SB,1.5,1,8.3,20,10,18.89
-Cikampek,Chemical Acid Alkali Room,Cikampek-Chemical Acid Alkali Room,Shelter,0.47,0.19,0.3625,SB,1.5,1,6.27,24,15,5.47
-Cikampek,Chlorination Building,Cikampek-Chlorination Building,Shelter,0.47,0.19,0.3625,SB,1.5,1,7.74,15,8,12.66
-Cikampek,Demineralization BWRO & SWRO shelter,Cikampek-Demineralization BWRO & SWRO shelter,Shelter,0.47,0.19,0.3625,SB,1.5,1,6.8,18,9,11.83
-Cikampek,Fire Water Pump Shelter,Cikampek-Fire Water Pump Shelter,Shelter,0.47,0.19,0.3625,SB,1.5,1,4.2,14,7,5.15
-Cikampek,Fly Ash Compressor Shelter,Cikampek-Fly Ash Compressor Shelter,Shelter,0.47,0.19,0.3625,SB,1.5,1,5.44,13.5,5,4.06
-Cikampek,Fuel Oil Shelter,Cikampek-Fuel Oil Shelter,Shelter,0.47,0.19,0.3625,SB,1.5,1,4.99,7,5.5,3.33
-Cikampek,IA/SA compressor shelter,Cikampek-IA/SA compressor shelter,Shelter,0.47,0.19,0.3625,SB,1.5,1,5,10,7,3.70
-Gresik,BC1,Gresik-BC1,Conveyor Gallery,0.55,0.29,0.3106,SC,6,2,22.35,138,6,180.82
-Gresik,BC2,Gresik-BC2,Conveyor Gallery,0.55,0.29,0.3106,SC,1.5,1,11.8,38,3,19.31
-Gresik,BC3,Gresik-BC3,Conveyor Gallery,0.55,0.29,0.3106,SC,3.25,2,12.75,14,5,11.71
-Gresik,BC4,Gresik-BC4,Conveyor Gallery,0.55,0.29,0.3106,SC,6,2,40.1,63,5,220.57
-Gresik,BC5,Gresik-BC5,Conveyor Gallery,0.55,0.29,0.3106,SC,6,2,2,145,5,27.81
-Gresik,BC6,Gresik-BC6,Conveyor Gallery,0.55,0.29,0.3106,SC,6,2,26,45,3,52.42
-Gresik,BC7 Emergency Conveyor & Feeder,Gresik-BC7 Emergency Conveyor & Feeder,Conveyor Gallery,0.55,0.29,0.3106,SC,6,2,6.45,38,3,12.61
-Gresik,Piperack 1,Gresik-Piperack 1,Piperack (Heavy),0.55,0.29,0.3106,SC,3.25,2,18.75,100,4,162.12
-Gresik,Piperack 2,Gresik-Piperack 2,Piperack (Heavy),0.55,0.29,0.3106,SC,3.25,2,14,35,4,23.10
-Gresik,Piperack 3,Gresik-Piperack 3,Piperack (Medium),0.55,0.29,0.3106,SC,1.5,1,5,42,3,14.56
-Gresik,Piperack 4,Gresik-Piperack 4,Piperack (Light),0.55,0.29,0.3106,SC,1.5,1,3.5,20,3,6.15
-Gresik,Piperack 5,Gresik-Piperack 5,Piperack (Light),0.55,0.29,0.3106,SC,1.5,1,5,40,3,13.22
-Gresik,Piperack 6,Gresik-Piperack 6,Piperack (Light),0.55,0.29,0.3106,SC,1.5,1,6.5,23,3,5.87
-Gresik,Transfer Tower 1,Gresik-Transfer Tower 1,Transfer Tower,0.55,0.29,0.3106,SC,6,2,27.6,9,8,99.28
-Gresik,Transfer Tower 2,Gresik-Transfer Tower 2,Transfer Tower,0.55,0.29,0.3106,SC,6,2,12.75,6,6,25.08
-Gresik,Transfer Tower 3,Gresik-Transfer Tower 3,Transfer Tower,0.55,0.29,0.3106,SC,6,2,47.61,9,8,173.49
-Gresik,Steam Turbine Building,Gresik-Steam Turbine Building,Turbine Hall,0.55,0.29,0.3106,SC,6,2,27.4,81,27,860.18
-Gresik,Boiler House,Gresik-Boiler House,Boiler House,0.55,0.29,0.3106,SC,3.25,2,45,45.4,30,2083.77
-Gresik,Bulldozer garage,Gresik-Bulldozer garage,Shelter,0.55,0.29,0.3106,SC,1.5,1,8.3,20,10,18.12
-Gresik,Chemical Acid Alkali Room,Gresik-Chemical Acid Alkali Room,Shelter,0.55,0.29,0.3106,SC,1.5,1,6.27,24,15,5.50
-Gresik,Chlorination Building,Gresik-Chlorination Building,Shelter,0.55,0.29,0.3106,SC,1.5,1,7.74,15,8,12.14
-Gresik,Demineralization BWRO & SWRO shelter,Gresik-Demineralization BWRO & SWRO shelter,Shelter,0.55,0.29,0.3106,SC,1.5,1,6.8,18,9,11.89
-Gresik,Fire Water Pump Shelter,Gresik-Fire Water Pump Shelter,Shelter,0.55,0.29,0.3106,SC,1.5,1,4.2,14,7,4.94
-Gresik,Fly Ash Compressor Shelter,Gresik-Fly Ash Compressor Shelter,Shelter,0.55,0.29,0.3106,SC,1.5,1,5.44,13.5,5,4.08
-Gresik,Fuel Oil Shelter,Gresik-Fuel Oil Shelter,Shelter,0.55,0.29,0.3106,SC,1.5,1,4.99,7,5.5,3.20
-Gresik,IA/SA compressor shelter,Gresik-IA/SA compressor shelter,Shelter,0.55,0.29,0.3106,SC,1.5,1,5,10,7,3.72
+Facility_Type,Ss,S1,PGA,Soil Type,R,Omega,Height,Length,Width,Weight
+Conveyor Gallery,1.45,0.45,0.65,SD,6,2,22.35,138,6,192.36
+Conveyor Gallery,1.45,0.45,0.65,SD,1.5,1,11.8,38,3,20.01
+Conveyor Gallery,1.45,0.45,0.65,SD,3.25,2,12.75,14,5,12.46
+Conveyor Gallery,1.45,0.45,0.65,SD,6,2,40.1,63,5,228.57
+Conveyor Gallery,1.45,0.45,0.65,SD,6,2,2,145,5,29.58
+Conveyor Gallery,1.45,0.45,0.65,SD,6,2,26,45,3,54.32
+Conveyor Gallery,1.45,0.45,0.65,SD,6,2,6.45,38,3,13.42
+Piperack (Heavy),1.45,0.45,0.65,SD,3.25,2,18.75,100,4,168
+Piperack (Heavy),1.45,0.45,0.65,SD,3.25,2,14,35,4,24.57
+Piperack (Medium),1.45,0.45,0.65,SD,1.5,1,5,42,3,15.09
+Piperack (Light),1.45,0.45,0.65,SD,1.5,1,3.5,20,3,6.54
+Piperack (Light),1.45,0.45,0.65,SD,1.5,1,5,40,3,13.7
+Piperack (Light),1.45,0.45,0.65,SD,1.5,1,6.5,23,3,6.24
+Transfer Tower,1.45,0.45,0.65,SD,6,2,27.6,9,8,102.88
+Transfer Tower,1.45,0.45,0.65,SD,6,2,12.75,6,6,26.68
+Transfer Tower,1.45,0.45,0.65,SD,6,2,47.61,9,8,179.78
+Turbine Hall,1.45,0.45,0.65,SD,6,2,27.4,81,27,915.09
+Boiler House,1.45,0.45,0.65,SD,3.25,2,45,45.4,30,2159.35
+Shelter,1.45,0.45,0.65,SD,1.5,1,8.3,20,10,19.28
+Shelter,1.45,0.45,0.65,SD,1.5,1,6.27,24,15,5.7
+Shelter,1.45,0.45,0.65,SD,1.5,1,7.74,15,8,12.92
+Shelter,1.45,0.45,0.65,SD,1.5,1,6.8,18,9,12.32
+Shelter,1.45,0.45,0.65,SD,1.5,1,4.2,14,7,5.26
+Shelter,1.45,0.45,0.65,SD,1.5,1,5.44,13.5,5,4.23
+Shelter,1.45,0.45,0.65,SD,1.5,1,4.99,7,5.5,3.4
+Shelter,1.45,0.45,0.65,SD,1.5,1,5,10,7,3.85
+Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,22.35,138,6,182.74
+Conveyor Gallery,0.44,0.51,0.146,SE,1.5,1,11.8,38,3,17.41
+Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,12.75,14,5,11.84
+Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,40.1,63,5,198.86
+Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,2,145,5,28.1
+Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,26,45,3,47.26
+Conveyor Gallery,0.44,0.51,0.146,SE,2.5,2,6.45,38,3,12.75
+Piperack (Heavy),0.44,0.51,0.146,SE,2.5,2,18.75,100,4,146.16
+Piperack (Heavy),0.44,0.51,0.146,SE,2.5,2,14,35,4,23.34
+Piperack (Medium),0.44,0.51,0.146,SE,1.5,1,5,42,3,13.13
+Piperack (Light),0.44,0.51,0.146,SE,1.5,1,3.5,20,3,6.21
+Piperack (Light),0.44,0.51,0.146,SE,1.5,1,5,40,3,11.92
+Piperack (Light),0.44,0.51,0.146,SE,1.5,1,6.5,23,3,5.93
+Transfer Tower,0.44,0.51,0.146,SE,2.5,2,27.6,9,8,89.51
+Transfer Tower,0.44,0.51,0.146,SE,2.5,2,12.75,6,6,25.35
+Transfer Tower,0.44,0.51,0.146,SE,2.5,2,47.61,9,8,156.41
+Turbine Hall,0.44,0.51,0.146,SE,2.5,2,27.4,81,27,869.34
+Boiler House,0.44,0.51,0.146,SE,2.5,2,45,45.4,30,1878.63
+Shelter,0.44,0.51,0.146,SE,1.5,1,8.3,20,10,18.32
+Shelter,0.44,0.51,0.146,SE,1.5,1,6.27,24,15,4.96
+Shelter,0.44,0.51,0.146,SE,1.5,1,7.74,15,8,12.27
+Shelter,0.44,0.51,0.146,SE,1.5,1,6.8,18,9,10.72
+Shelter,0.44,0.51,0.146,SE,1.5,1,4.2,14,7,5
+Shelter,0.44,0.51,0.146,SE,1.5,1,5.44,13.5,5,3.68
+Shelter,0.44,0.51,0.146,SE,1.5,1,4.99,7,5.5,3.23
+Shelter,0.44,0.51,0.146,SE,1.5,1,5,10,7,3.35
+Conveyor Gallery,0.34,0.35,0.103,SE,6,2,22.35,138,6,180.82
+Conveyor Gallery,0.34,0.35,0.103,SE,1.5,1,11.8,38,3,18.61
+Conveyor Gallery,0.34,0.35,0.103,SE,3.25,2,12.75,14,5,11.71
+Conveyor Gallery,0.34,0.35,0.103,SE,6,2,40.1,63,5,212.57
+Conveyor Gallery,0.34,0.35,0.103,SE,6,2,2,145,5,27.81
+Conveyor Gallery,0.34,0.35,0.103,SE,6,2,26,45,3,50.52
+Conveyor Gallery,0.34,0.35,0.103,SE,6,2,6.45,38,3,12.61
+Piperack (Heavy),0.34,0.35,0.103,SE,3.25,2,18.75,100,4,156.24
+Piperack (Heavy),0.34,0.35,0.103,SE,3.25,2,14,35,4,23.1
+Piperack (Medium),0.34,0.35,0.103,SE,1.5,1,5,42,3,14.03
+Piperack (Light),0.34,0.35,0.103,SE,1.5,1,3.5,20,3,6.15
+Piperack (Light),0.34,0.35,0.103,SE,1.5,1,5,40,3,12.74
+Piperack (Light),0.34,0.35,0.103,SE,1.5,1,6.5,23,3,5.87
+Transfer Tower,0.34,0.35,0.103,SE,6,2,27.6,9,8,95.68
+Transfer Tower,0.34,0.35,0.103,SE,6,2,12.75,6,6,25.08
+Transfer Tower,0.34,0.35,0.103,SE,6,2,47.61,9,8,167.2
+Turbine Hall,0.34,0.35,0.103,SE,6,2,27.4,81,27,860.18
+Boiler House,0.34,0.35,0.103,SE,3.25,2,45,45.4,30,2008.2
+Shelter,0.34,0.35,0.103,SE,1.5,1,8.3,20,10,18.12
+Shelter,0.34,0.35,0.103,SE,1.5,1,6.27,24,15,5.3
+Shelter,0.34,0.35,0.103,SE,1.5,1,7.74,15,8,12.14
+Shelter,0.34,0.35,0.103,SE,1.5,1,6.8,18,9,11.46
+Shelter,0.34,0.35,0.103,SE,1.5,1,4.2,14,7,4.94
+Shelter,0.34,0.35,0.103,SE,1.5,1,5.44,13.5,5,3.93
+Shelter,0.34,0.35,0.103,SE,1.5,1,4.99,7,5.5,3.2
+Shelter,0.34,0.35,0.103,SE,1.5,1,5,10,7,3.58
+Conveyor Gallery,0.47,0.19,0.3625,SB,6,2,22.35,138,6,188.51
+Conveyor Gallery,0.47,0.19,0.3625,SB,1.5,1,11.8,38,3,19.21
+Conveyor Gallery,0.47,0.19,0.3625,SB,3.25,2,12.75,14,5,12.21
+Conveyor Gallery,0.47,0.19,0.3625,SB,6,2,40.1,63,5,219.43
+Conveyor Gallery,0.47,0.19,0.3625,SB,6,2,2,145,5,28.99
+Conveyor Gallery,0.47,0.19,0.3625,SB,6,2,26,45,3,52.15
+Conveyor Gallery,0.47,0.19,0.3625,SB,6,2,6.45,38,3,13.15
+Piperack (Heavy),0.47,0.19,0.3625,SB,3.25,2,18.75,100,4,161.28
+Piperack (Heavy),0.47,0.19,0.3625,SB,3.25,2,14,35,4,24.08
+Piperack (Medium),0.47,0.19,0.3625,SB,1.5,1,5,42,3,14.49
+Piperack (Light),0.47,0.19,0.3625,SB,1.5,1,3.5,20,3,6.41
+Piperack (Light),0.47,0.19,0.3625,SB,1.5,1,5,40,3,13.15
+Piperack (Light),0.47,0.19,0.3625,SB,1.5,1,6.5,23,3,6.12
+Transfer Tower,0.47,0.19,0.3625,SB,6,2,27.6,9,8,98.76
+Transfer Tower,0.47,0.19,0.3625,SB,6,2,12.75,6,6,26.15
+Transfer Tower,0.47,0.19,0.3625,SB,6,2,47.61,9,8,172.59
+Turbine Hall,0.47,0.19,0.3625,SB,6,2,27.4,81,27,896.79
+Boiler House,0.47,0.19,0.3625,SB,3.25,2,45,45.4,30,2072.98
+Shelter,0.47,0.19,0.3625,SB,1.5,1,8.3,20,10,18.89
+Shelter,0.47,0.19,0.3625,SB,1.5,1,6.27,24,15,5.47
+Shelter,0.47,0.19,0.3625,SB,1.5,1,7.74,15,8,12.66
+Shelter,0.47,0.19,0.3625,SB,1.5,1,6.8,18,9,11.83
+Shelter,0.47,0.19,0.3625,SB,1.5,1,4.2,14,7,5.15
+Shelter,0.47,0.19,0.3625,SB,1.5,1,5.44,13.5,5,4.06
+Shelter,0.47,0.19,0.3625,SB,1.5,1,4.99,7,5.5,3.33
+Shelter,0.47,0.19,0.3625,SB,1.5,1,5,10,7,3.7
+Conveyor Gallery,0.55,0.29,0.3106,SC,6,2,22.35,138,6,180.82
+Conveyor Gallery,0.55,0.29,0.3106,SC,1.5,1,11.8,38,3,19.31
+Conveyor Gallery,0.55,0.29,0.3106,SC,3.25,2,12.75,14,5,11.71
+Conveyor Gallery,0.55,0.29,0.3106,SC,6,2,40.1,63,5,220.57
+Conveyor Gallery,0.55,0.29,0.3106,SC,6,2,2,145,5,27.81
+Conveyor Gallery,0.55,0.29,0.3106,SC,6,2,26,45,3,52.42
+Conveyor Gallery,0.55,0.29,0.3106,SC,6,2,6.45,38,3,12.61
+Piperack (Heavy),0.55,0.29,0.3106,SC,3.25,2,18.75,100,4,162.12
+Piperack (Heavy),0.55,0.29,0.3106,SC,3.25,2,14,35,4,23.1
+Piperack (Medium),0.55,0.29,0.3106,SC,1.5,1,5,42,3,14.56
+Piperack (Light),0.55,0.29,0.3106,SC,1.5,1,3.5,20,3,6.15
+Piperack (Light),0.55,0.29,0.3106,SC,1.5,1,5,40,3,13.22
+Piperack (Light),0.55,0.29,0.3106,SC,1.5,1,6.5,23,3,5.87
+Transfer Tower,0.55,0.29,0.3106,SC,6,2,27.6,9,8,99.28
+Transfer Tower,0.55,0.29,0.3106,SC,6,2,12.75,6,6,25.08
+Transfer Tower,0.55,0.29,0.3106,SC,6,2,47.61,9,8,173.49
+Turbine Hall,0.55,0.29,0.3106,SC,6,2,27.4,81,27,860.18
+Boiler House,0.55,0.29,0.3106,SC,3.25,2,45,45.4,30,2083.77
+Shelter,0.55,0.29,0.3106,SC,1.5,1,8.3,20,10,18.12
+Shelter,0.55,0.29,0.3106,SC,1.5,1,6.27,24,15,5.5
+Shelter,0.55,0.29,0.3106,SC,1.5,1,7.74,15,8,12.14
+Shelter,0.55,0.29,0.3106,SC,1.5,1,6.8,18,9,11.89
+Shelter,0.55,0.29,0.3106,SC,1.5,1,4.2,14,7,4.94
+Shelter,0.55,0.29,0.3106,SC,1.5,1,5.44,13.5,5,4.08
+Shelter,0.55,0.29,0.3106,SC,1.5,1,4.99,7,5.5,3.2
+Shelter,0.55,0.29,0.3106,SC,1.5,1,5,10,7,3.72
