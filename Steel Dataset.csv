@@ -17,7 +17,7 @@ Lombok,Transfer Tower 2,Lombok-Transfer Tower 2,Transfer Tower,1.45,0.45,0.65,SD
 Lombok,Transfer Tower 3,Lombok-Transfer Tower 3,Transfer Tower,1.45,0.45,0.65,SD,6,2,47.61,9,8,179.78
 Lombok,Steam Turbine Building,Lombok-Steam Turbine Building,Turbine Hall,1.45,0.45,0.65,SD,6,2,27.4,81,27,915.09
 Lombok,Boiler House,Lombok-Boiler House,Boiler House,1.45,0.45,0.65,SD,3.25,2,45,45.4,30,2159.35
-Lombok,Bulldozer garage,Lombok-Bulldozer garage,Shelter,1.45,0.45,0.65,SD,1.5,1,8.3,,10,19.28
+Lombok,Bulldozer garage,Lombok-Bulldozer garage,Shelter,1.45,0.45,0.65,SD,1.5,1,8.3,20,10,19.28
 Lombok,Chemical Acid Alkali Room,Lombok-Chemical Acid Alkali Room,Shelter,1.45,0.45,0.65,SD,1.5,1,6.27,24,15,5.70
 Lombok,Chlorination Building,Lombok-Chlorination Building,Shelter,1.45,0.45,0.65,SD,1.5,1,7.74,15,8,12.92
 Lombok,Demineralization BWRO & SWRO shelter,Lombok-Demineralization BWRO & SWRO shelter,Shelter,1.45,0.45,0.65,SD,1.5,1,6.8,18,9,12.32
@@ -43,7 +43,7 @@ Palembang,Transfer Tower 2,Palembang-Transfer Tower 2,Transfer Tower,0.44,0.51,0
 Palembang,Transfer Tower 3,Palembang-Transfer Tower 3,Transfer Tower,0.44,0.51,0.146,SE,2.5,2,47.61,9,8,156.41
 Palembang,Steam Turbine Building,Palembang-Steam Turbine Building,Turbine Hall,0.44,0.51,0.146,SE,2.5,2,27.4,81,27,869.34
 Palembang,Boiler House,Palembang-Boiler House,Boiler House,0.44,0.51,0.146,SE,2.5,2,45,45.4,30,1878.63
-Palembang,Bulldozer garage,Palembang-Bulldozer garage,Shelter,0.44,0.51,0.146,SE,1.5,1,8.3,,10,18.32
+Palembang,Bulldozer garage,Palembang-Bulldozer garage,Shelter,0.44,0.51,0.146,SE,1.5,1,8.3,20,10,18.32
 Palembang,Chemical Acid Alkali Room,Palembang-Chemical Acid Alkali Room,Shelter,0.44,0.51,0.146,SE,1.5,1,6.27,24,15,4.96
 Palembang,Chlorination Building,Palembang-Chlorination Building,Shelter,0.44,0.51,0.146,SE,1.5,1,7.74,15,8,12.27
 Palembang,Demineralization BWRO & SWRO shelter,Palembang-Demineralization BWRO & SWRO shelter,Shelter,0.44,0.51,0.146,SE,1.5,1,6.8,18,9,10.72
@@ -69,7 +69,7 @@ Bontang,Transfer Tower 2,Bontang-Transfer Tower 2,Transfer Tower,0.34,0.35,0.103
 Bontang,Transfer Tower 3,Bontang-Transfer Tower 3,Transfer Tower,0.34,0.35,0.103,SE,6,2,47.61,9,8,167.20
 Bontang,Steam Turbine Building,Bontang-Steam Turbine Building,Turbine Hall,0.34,0.35,0.103,SE,6,2,27.4,81,27,860.18
 Bontang,Boiler House,Bontang-Boiler House,Boiler House,0.34,0.35,0.103,SE,3.25,2,45,45.4,30,2008.20
-Bontang,Bulldozer garage,Bontang-Bulldozer garage,Shelter,0.34,0.35,0.103,SE,1.5,1,8.3,,10,18.12
+Bontang,Bulldozer garage,Bontang-Bulldozer garage,Shelter,0.34,0.35,0.103,SE,1.5,1,8.3,20,10,18.12
 Bontang,Chemical Acid Alkali Room,Bontang-Chemical Acid Alkali Room,Shelter,0.34,0.35,0.103,SE,1.5,1,6.27,24,15,5.30
 Bontang,Chlorination Building,Bontang-Chlorination Building,Shelter,0.34,0.35,0.103,SE,1.5,1,7.74,15,8,12.14
 Bontang,Demineralization BWRO & SWRO shelter,Bontang-Demineralization BWRO & SWRO shelter,Shelter,0.34,0.35,0.103,SE,1.5,1,6.8,18,9,11.46
@@ -95,7 +95,7 @@ Cikampek,Transfer Tower 2,Cikampek-Transfer Tower 2,Transfer Tower,0.47,0.19,0.3
 Cikampek,Transfer Tower 3,Cikampek-Transfer Tower 3,Transfer Tower,0.47,0.19,0.3625,SB,6,2,47.61,9,8,172.59
 Cikampek,Steam Turbine Building,Cikampek-Steam Turbine Building,Turbine Hall,0.47,0.19,0.3625,SB,6,2,27.4,81,27,896.79
 Cikampek,Boiler House,Cikampek-Boiler House,Boiler House,0.47,0.19,0.3625,SB,3.25,2,45,45.4,30,2072.98
-Cikampek,Bulldozer garage,Cikampek-Bulldozer garage,Shelter,0.47,0.19,0.3625,SB,1.5,1,8.3,,10,18.89
+Cikampek,Bulldozer garage,Cikampek-Bulldozer garage,Shelter,0.47,0.19,0.3625,SB,1.5,1,8.3,20,10,18.89
 Cikampek,Chemical Acid Alkali Room,Cikampek-Chemical Acid Alkali Room,Shelter,0.47,0.19,0.3625,SB,1.5,1,6.27,24,15,5.47
 Cikampek,Chlorination Building,Cikampek-Chlorination Building,Shelter,0.47,0.19,0.3625,SB,1.5,1,7.74,15,8,12.66
 Cikampek,Demineralization BWRO & SWRO shelter,Cikampek-Demineralization BWRO & SWRO shelter,Shelter,0.47,0.19,0.3625,SB,1.5,1,6.8,18,9,11.83
@@ -121,7 +121,7 @@ Gresik,Transfer Tower 2,Gresik-Transfer Tower 2,Transfer Tower,0.55,0.29,0.3106,
 Gresik,Transfer Tower 3,Gresik-Transfer Tower 3,Transfer Tower,0.55,0.29,0.3106,SC,6,2,47.61,9,8,173.49
 Gresik,Steam Turbine Building,Gresik-Steam Turbine Building,Turbine Hall,0.55,0.29,0.3106,SC,6,2,27.4,81,27,860.18
 Gresik,Boiler House,Gresik-Boiler House,Boiler House,0.55,0.29,0.3106,SC,3.25,2,45,45.4,30,2083.77
-Gresik,Bulldozer garage,Gresik-Bulldozer garage,Shelter,0.55,0.29,0.3106,SC,1.5,1,8.3,,10,18.12
+Gresik,Bulldozer garage,Gresik-Bulldozer garage,Shelter,0.55,0.29,0.3106,SC,1.5,1,8.3,20,10,18.12
 Gresik,Chemical Acid Alkali Room,Gresik-Chemical Acid Alkali Room,Shelter,0.55,0.29,0.3106,SC,1.5,1,6.27,24,15,5.50
 Gresik,Chlorination Building,Gresik-Chlorination Building,Shelter,0.55,0.29,0.3106,SC,1.5,1,7.74,15,8,12.14
 Gresik,Demineralization BWRO & SWRO shelter,Gresik-Demineralization BWRO & SWRO shelter,Shelter,0.55,0.29,0.3106,SC,1.5,1,6.8,18,9,11.89
