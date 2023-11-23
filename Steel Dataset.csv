@@ -1,41 +1,41 @@
-Facility_ID,Ss,S1,PGA,Soil Type,R,Omega,Height,Length,Width,Weight
-Lombok-Bulldozer garage,1.45,0.45,0.65,SD,1.5,1,8.3,20,10,19.28
-Lombok-Chemical Acid Alkali Room,1.45,0.45,0.65,SD,1.5,1,6.27,24,15,5.7
-Lombok-Chlorination Building,1.45,0.45,0.65,SD,1.5,1,7.74,15,8,12.92
-Lombok-Demineralization BWRO & SWRO shelter,1.45,0.45,0.65,SD,1.5,1,6.8,18,9,12.32
-Lombok-Fire Water Pump Shelter,1.45,0.45,0.65,SD,1.5,1,4.2,14,7,5.26
-Lombok-Fly Ash Compressor Shelter,1.45,0.45,0.65,SD,1.5,1,5.44,13.5,5,4.23
-Lombok-Fuel Oil Shelter,1.45,0.45,0.65,SD,1.5,1,4.99,7,5.5,3.4
-Lombok-IA/SA compressor shelter,1.45,0.45,0.65,SD,1.5,1,5,10,7,3.85
-Palembang-Bulldozer garage,0.44,0.51,0.146,SE,1.5,1,8.3,20,10,18.32
-Palembang-Chemical Acid Alkali Room,0.44,0.51,0.146,SE,1.5,1,6.27,24,15,4.96
-Palembang-Chlorination Building,0.44,0.51,0.146,SE,1.5,1,7.74,15,8,12.27
-Palembang-Demineralization BWRO & SWRO shelter,0.44,0.51,0.146,SE,1.5,1,6.8,18,9,10.72
-Palembang-Fire Water Pump Shelter,0.44,0.51,0.146,SE,1.5,1,4.2,14,7,5
-Palembang-Fly Ash Compressor Shelter,0.44,0.51,0.146,SE,1.5,1,5.44,13.5,5,3.68
-Palembang-Fuel Oil Shelter,0.44,0.51,0.146,SE,1.5,1,4.99,7,5.5,3.23
-Palembang-IA/SA compressor shelter,0.44,0.51,0.146,SE,1.5,1,5,10,7,3.35
-Bontang-Bulldozer garage,0.34,0.35,0.103,SE,1.5,1,8.3,20,10,18.12
-Bontang-Chemical Acid Alkali Room,0.34,0.35,0.103,SE,1.5,1,6.27,24,15,5.3
-Bontang-Chlorination Building,0.34,0.35,0.103,SE,1.5,1,7.74,15,8,12.14
-Bontang-Demineralization BWRO & SWRO shelter,0.34,0.35,0.103,SE,1.5,1,6.8,18,9,11.46
-Bontang-Fire Water Pump Shelter,0.34,0.35,0.103,SE,1.5,1,4.2,14,7,4.94
-Bontang-Fly Ash Compressor Shelter,0.34,0.35,0.103,SE,1.5,1,5.44,13.5,5,3.93
-Bontang-Fuel Oil Shelter,0.34,0.35,0.103,SE,1.5,1,4.99,7,5.5,3.2
-Bontang-IA/SA compressor shelter,0.34,0.35,0.103,SE,1.5,1,5,10,7,3.58
-Cikampek-Bulldozer garage,0.47,0.19,0.3625,SB,1.5,1,8.3,20,10,18.89
-Cikampek-Chemical Acid Alkali Room,0.47,0.19,0.3625,SB,1.5,1,6.27,24,15,5.47
-Cikampek-Chlorination Building,0.47,0.19,0.3625,SB,1.5,1,7.74,15,8,12.66
-Cikampek-Demineralization BWRO & SWRO shelter,0.47,0.19,0.3625,SB,1.5,1,6.8,18,9,11.83
-Cikampek-Fire Water Pump Shelter,0.47,0.19,0.3625,SB,1.5,1,4.2,14,7,5.15
-Cikampek-Fly Ash Compressor Shelter,0.47,0.19,0.3625,SB,1.5,1,5.44,13.5,5,4.06
-Cikampek-Fuel Oil Shelter,0.47,0.19,0.3625,SB,1.5,1,4.99,7,5.5,3.33
-Cikampek-IA/SA compressor shelter,0.47,0.19,0.3625,SB,1.5,1,5,10,7,3.7
-Gresik-Bulldozer garage,0.55,0.29,0.3106,SC,1.5,1,8.3,20,10,18.12
-Gresik-Chemical Acid Alkali Room,0.55,0.29,0.3106,SC,1.5,1,6.27,24,15,5.5
-Gresik-Chlorination Building,0.55,0.29,0.3106,SC,1.5,1,7.74,15,8,12.14
-Gresik-Demineralization BWRO & SWRO shelter,0.55,0.29,0.3106,SC,1.5,1,6.8,18,9,11.89
-Gresik-Fire Water Pump Shelter,0.55,0.29,0.3106,SC,1.5,1,4.2,14,7,4.94
-Gresik-Fly Ash Compressor Shelter,0.55,0.29,0.3106,SC,1.5,1,5.44,13.5,5,4.08
-Gresik-Fuel Oil Shelter,0.55,0.29,0.3106,SC,1.5,1,4.99,7,5.5,3.2
-Gresik-IA/SA compressor shelter,0.55,0.29,0.3106,SC,1.5,1,5,10,7,3.72
+Facility_ID,Ss,S1,PGA,Soil Type,R,Omega,Volume,Weight
+Lombok-Bulldozer garage,1.45,0.45,0.65,SD,1.5,1,1660,19.28
+Lombok-Chemical Acid Alkali Room,1.45,0.45,0.65,SD,1.5,1,2257.2,5.7
+Lombok-Chlorination Building,1.45,0.45,0.65,SD,1.5,1,928.8,12.92
+Lombok-Demineralization BWRO & SWRO shelter,1.45,0.45,0.65,SD,1.5,1,1101.6,12.32
+Lombok-Fire Water Pump Shelter,1.45,0.45,0.65,SD,1.5,1,411.6,5.26
+Lombok-Fly Ash Compressor Shelter,1.45,0.45,0.65,SD,1.5,1,367.2,4.23
+Lombok-Fuel Oil Shelter,1.45,0.45,0.65,SD,1.5,1,192.115,3.4
+Lombok-IA/SA compressor shelter,1.45,0.45,0.65,SD,1.5,1,350,3.85
+Palembang-Bulldozer garage,0.44,0.51,0.146,SE,1.5,1,1660,18.32
+Palembang-Chemical Acid Alkali Room,0.44,0.51,0.146,SE,1.5,1,2257.2,4.96
+Palembang-Chlorination Building,0.44,0.51,0.146,SE,1.5,1,928.8,12.27
+Palembang-Demineralization BWRO & SWRO shelter,0.44,0.51,0.146,SE,1.5,1,1101.6,10.72
+Palembang-Fire Water Pump Shelter,0.44,0.51,0.146,SE,1.5,1,411.6,5
+Palembang-Fly Ash Compressor Shelter,0.44,0.51,0.146,SE,1.5,1,367.2,3.68
+Palembang-Fuel Oil Shelter,0.44,0.51,0.146,SE,1.5,1,192.115,3.23
+Palembang-IA/SA compressor shelter,0.44,0.51,0.146,SE,1.5,1,350,3.35
+Bontang-Bulldozer garage,0.34,0.35,0.103,SE,1.5,1,1660,18.12
+Bontang-Chemical Acid Alkali Room,0.34,0.35,0.103,SE,1.5,1,2257.2,5.3
+Bontang-Chlorination Building,0.34,0.35,0.103,SE,1.5,1,928.8,12.14
+Bontang-Demineralization BWRO & SWRO shelter,0.34,0.35,0.103,SE,1.5,1,1101.6,11.46
+Bontang-Fire Water Pump Shelter,0.34,0.35,0.103,SE,1.5,1,411.6,4.94
+Bontang-Fly Ash Compressor Shelter,0.34,0.35,0.103,SE,1.5,1,367.2,3.93
+Bontang-Fuel Oil Shelter,0.34,0.35,0.103,SE,1.5,1,192.115,3.2
+Bontang-IA/SA compressor shelter,0.34,0.35,0.103,SE,1.5,1,350,3.58
+Cikampek-Bulldozer garage,0.47,0.19,0.3625,SB,1.5,1,1660,18.89
+Cikampek-Chemical Acid Alkali Room,0.47,0.19,0.3625,SB,1.5,1,2257.2,5.47
+Cikampek-Chlorination Building,0.47,0.19,0.3625,SB,1.5,1,928.8,12.66
+Cikampek-Demineralization BWRO & SWRO shelter,0.47,0.19,0.3625,SB,1.5,1,1101.6,11.83
+Cikampek-Fire Water Pump Shelter,0.47,0.19,0.3625,SB,1.5,1,411.6,5.15
+Cikampek-Fly Ash Compressor Shelter,0.47,0.19,0.3625,SB,1.5,1,367.2,4.06
+Cikampek-Fuel Oil Shelter,0.47,0.19,0.3625,SB,1.5,1,192.115,3.33
+Cikampek-IA/SA compressor shelter,0.47,0.19,0.3625,SB,1.5,1,350,3.7
+Gresik-Bulldozer garage,0.55,0.29,0.3106,SC,1.5,1,1660,18.12
+Gresik-Chemical Acid Alkali Room,0.55,0.29,0.3106,SC,1.5,1,2257.2,5.5
+Gresik-Chlorination Building,0.55,0.29,0.3106,SC,1.5,1,928.8,12.14
+Gresik-Demineralization BWRO & SWRO shelter,0.55,0.29,0.3106,SC,1.5,1,1101.6,11.89
+Gresik-Fire Water Pump Shelter,0.55,0.29,0.3106,SC,1.5,1,411.6,4.94
+Gresik-Fly Ash Compressor Shelter,0.55,0.29,0.3106,SC,1.5,1,367.2,4.08
+Gresik-Fuel Oil Shelter,0.55,0.29,0.3106,SC,1.5,1,192.115,3.2
+Gresik-IA/SA compressor shelter,0.55,0.29,0.3106,SC,1.5,1,350,3.72
