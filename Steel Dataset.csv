@@ -1,41 +1,201 @@
-Facility_ID,Ss,S1,PGA,Soil Type,R,Omega,Volume,Weight
-Lombok-Bulldozer garage,1.45,0.45,0.65,SD,1.5,1,1660,19.28
-Lombok-Chemical Acid Alkali Room,1.45,0.45,0.65,SD,1.5,1,2257.2,5.7
-Lombok-Chlorination Building,1.45,0.45,0.65,SD,1.5,1,928.8,12.92
-Lombok-Demineralization BWRO & SWRO shelter,1.45,0.45,0.65,SD,1.5,1,1101.6,12.32
-Lombok-Fire Water Pump Shelter,1.45,0.45,0.65,SD,1.5,1,411.6,5.26
-Lombok-Fly Ash Compressor Shelter,1.45,0.45,0.65,SD,1.5,1,367.2,4.23
-Lombok-Fuel Oil Shelter,1.45,0.45,0.65,SD,1.5,1,192.115,3.4
-Lombok-IA/SA compressor shelter,1.45,0.45,0.65,SD,1.5,1,350,3.85
-Palembang-Bulldozer garage,0.44,0.51,0.146,SE,1.5,1,1660,18.32
-Palembang-Chemical Acid Alkali Room,0.44,0.51,0.146,SE,1.5,1,2257.2,4.96
-Palembang-Chlorination Building,0.44,0.51,0.146,SE,1.5,1,928.8,12.27
-Palembang-Demineralization BWRO & SWRO shelter,0.44,0.51,0.146,SE,1.5,1,1101.6,10.72
-Palembang-Fire Water Pump Shelter,0.44,0.51,0.146,SE,1.5,1,411.6,5
-Palembang-Fly Ash Compressor Shelter,0.44,0.51,0.146,SE,1.5,1,367.2,3.68
-Palembang-Fuel Oil Shelter,0.44,0.51,0.146,SE,1.5,1,192.115,3.23
-Palembang-IA/SA compressor shelter,0.44,0.51,0.146,SE,1.5,1,350,3.35
-Bontang-Bulldozer garage,0.34,0.35,0.103,SE,1.5,1,1660,18.12
-Bontang-Chemical Acid Alkali Room,0.34,0.35,0.103,SE,1.5,1,2257.2,5.3
-Bontang-Chlorination Building,0.34,0.35,0.103,SE,1.5,1,928.8,12.14
-Bontang-Demineralization BWRO & SWRO shelter,0.34,0.35,0.103,SE,1.5,1,1101.6,11.46
-Bontang-Fire Water Pump Shelter,0.34,0.35,0.103,SE,1.5,1,411.6,4.94
-Bontang-Fly Ash Compressor Shelter,0.34,0.35,0.103,SE,1.5,1,367.2,3.93
-Bontang-Fuel Oil Shelter,0.34,0.35,0.103,SE,1.5,1,192.115,3.2
-Bontang-IA/SA compressor shelter,0.34,0.35,0.103,SE,1.5,1,350,3.58
-Cikampek-Bulldozer garage,0.47,0.19,0.3625,SB,1.5,1,1660,18.89
-Cikampek-Chemical Acid Alkali Room,0.47,0.19,0.3625,SB,1.5,1,2257.2,5.47
-Cikampek-Chlorination Building,0.47,0.19,0.3625,SB,1.5,1,928.8,12.66
-Cikampek-Demineralization BWRO & SWRO shelter,0.47,0.19,0.3625,SB,1.5,1,1101.6,11.83
-Cikampek-Fire Water Pump Shelter,0.47,0.19,0.3625,SB,1.5,1,411.6,5.15
-Cikampek-Fly Ash Compressor Shelter,0.47,0.19,0.3625,SB,1.5,1,367.2,4.06
-Cikampek-Fuel Oil Shelter,0.47,0.19,0.3625,SB,1.5,1,192.115,3.33
-Cikampek-IA/SA compressor shelter,0.47,0.19,0.3625,SB,1.5,1,350,3.7
-Gresik-Bulldozer garage,0.55,0.29,0.3106,SC,1.5,1,1660,18.12
-Gresik-Chemical Acid Alkali Room,0.55,0.29,0.3106,SC,1.5,1,2257.2,5.5
-Gresik-Chlorination Building,0.55,0.29,0.3106,SC,1.5,1,928.8,12.14
-Gresik-Demineralization BWRO & SWRO shelter,0.55,0.29,0.3106,SC,1.5,1,1101.6,11.89
-Gresik-Fire Water Pump Shelter,0.55,0.29,0.3106,SC,1.5,1,411.6,4.94
-Gresik-Fly Ash Compressor Shelter,0.55,0.29,0.3106,SC,1.5,1,367.2,4.08
-Gresik-Fuel Oil Shelter,0.55,0.29,0.3106,SC,1.5,1,192.115,3.2
-Gresik-IA/SA compressor shelter,0.55,0.29,0.3106,SC,1.5,1,350,3.72
+Structure_ID,Seismicity_Level,Structure_Type,Height (m),Length (m),Width (m),Weight
+STR1,low_seismic,ordinary,10.5,12.3,8.6,55.5345
+STR2,med_seismic,intermediate,15.8,20.5,12.9,230.3293388
+STR3,intense_seismic,special,28.9,30.4,25.6,1385.453978
+STR4,low_seismic,ordinary,12.6,15.9,10.3,103.1751
+STR5,med_seismic,intermediate,35.2,28.6,23.5,1304.14284
+STR6,intense_seismic,special,20.3,18.7,16.4,383.4972064
+STR7,low_seismic,ordinary,30.5,25.6,20.3,792.512
+STR8,med_seismic,intermediate,22.1,28.9,15.7,552.7622441
+STR9,intense_seismic,special,18.3,22.7,17.8,455.4887568
+STR10,low_seismic,ordinary,10.5,12.3,8.6,55.5345
+STR11,med_seismic,intermediate,40,35.2,30.1,2336.2416
+STR12,intense_seismic,special,18.3,22.7,17.8,455.4887568
+STR13,low_seismic,ordinary,15.8,20.5,12.9,208.9155
+STR14,med_seismic,intermediate,32.4,24.8,21.5,952.32186
+STR15,intense_seismic,special,28.9,30.4,25.6,1385.453978
+STR16,low_seismic,ordinary,12.6,15.9,10.3,103.1751
+STR17,med_seismic,intermediate,35.2,28.6,23.5,1304.14284
+STR18,intense_seismic,special,20.3,18.7,16.4,383.4972064
+STR19,low_seismic,ordinary,30.5,25.6,20.3,792.512
+STR20,med_seismic,intermediate,22.1,28.9,15.7,552.7622441
+STR21,med_seismic,intermediate,41.3,36.7,31.8,2657.001737
+STR22,intense_seismic,special,23.7,27.1,21.6,854.5787712
+STR23,low_seismic,ordinary,17.4,22.5,14.4,281.88
+STR24,med_seismic,intermediate,31.8,24.7,27.5,1190.708269
+STR25,intense_seismic,special,28.5,31,25,1360.59
+STR26,low_seismic,ordinary,14.9,17.8,12.8,169.7408
+STR27,med_seismic,intermediate,37.4,29.6,24.8,1513.434384
+STR28,intense_seismic,special,25.8,27.4,21.6,940.5994752
+STR29,low_seismic,ordinary,29,24.2,19.2,673.728
+STR30,med_seismic,intermediate,22.5,30.4,17,640.9935
+STR31,intense_seismic,special,24.8,22.7,18.1,627.6778816
+STR32,low_seismic,ordinary,9.3,12.3,8.2,46.8999
+STR33,med_seismic,intermediate,34.8,25.8,22.7,1123.500861
+STR34,intense_seismic,special,27,31.4,26,1357.83648
+STR35,low_seismic,ordinary,11.2,14,9.3,72.912
+STR36,med_seismic,intermediate,33.5,25.4,22.2,1041.310148
+STR37,intense_seismic,special,27.5,30,24,1219.68
+STR38,low_seismic,ordinary,27,22.5,17.8,540.675
+STR39,med_seismic,intermediate,21.6,29.2,16.4,570.202416
+STR40,intense_seismic,special,23.8,21.7,17.1,544.0183056
+STR41,low_seismic,ordinary,9.5,14.3,7.6,51.623
+STR42,med_seismic,intermediate,17.6,19.2,11.4,212.357376
+STR43,intense_seismic,special,27.3,32.1,26.5,1430.521092
+STR44,low_seismic,ordinary,11.8,14.5,9.8,83.839
+STR45,med_seismic,intermediate,33.2,26.8,22.5,1103.58045
+STR46,intense_seismic,special,19.7,17.4,15.6,329.3978688
+STR47,low_seismic,ordinary,29.4,24.9,19.7,721.0791
+STR48,med_seismic,intermediate,23.8,30.4,16.5,658.08666
+STR49,intense_seismic,special,20.5,21.3,18.6,500.296104
+STR50,low_seismic,ordinary,8.3,11.7,8.4,40.7862
+STR51,med_seismic,intermediate,38.1,33.9,29.2,2079.007844
+STR52,intense_seismic,special,21.4,24.7,19.8,644.6984544
+STR53,low_seismic,ordinary,16.7,21.5,13.9,249.53975
+STR54,med_seismic,intermediate,30.5,22.8,25.5,977.5150875
+STR55,intense_seismic,special,26.4,28.7,22.9,1068.813715
+STR56,low_seismic,ordinary,14.2,16.9,12.3,147.5877
+STR57,med_seismic,intermediate,37.6,29.6,24.8,1521.527616
+STR58,intense_seismic,special,24.8,26.3,20.7,831.6842688
+STR59,low_seismic,ordinary,28.6,23.8,18.9,643.2426
+STR60,med_seismic,intermediate,20.2,27.4,14.8,451.556658
+STR61,intense_seismic,special,22.9,20.6,16.2,470.7587808
+STR62,low_seismic,ordinary,10.6,13.2,9.7,67.8612
+STR63,med_seismic,intermediate,34.8,25.7,21.3,1050.123974
+STR64,intense_seismic,special,27.1,31.5,26,1367.20584
+STR65,low_seismic,ordinary,12.3,15.4,10.1,95.6571
+STR66,med_seismic,intermediate,31.2,23.6,26.5,1075.62546
+STR67,intense_seismic,special,25.5,27.8,22.2,969.434928
+STR68,low_seismic,ordinary,27.4,22.9,18.2,570.9886
+STR69,med_seismic,intermediate,21.8,29.1,16.2,566.5171995
+STR70,intense_seismic,special,23.7,21.8,17.2,547.4116032
+STR71,low_seismic,ordinary,9.8,12.9,8.6,54.3606
+STR72,med_seismic,intermediate,36.5,32.1,27.8,1795.524334
+STR73,intense_seismic,special,28.4,30.9,25.1,1356.84817
+STR74,low_seismic,ordinary,13.1,16.2,10.8,114.5988
+STR75,med_seismic,intermediate,32.5,24.7,21.5,951.4092656
+STR76,intense_seismic,special,26.9,29.3,23.5,1140.954892
+STR77,low_seismic,ordinary,26.7,22.3,17.7,526.93785
+STR78,med_seismic,intermediate,22.4,30.2,16.8,626.488128
+STR79,intense_seismic,special,24.5,22.4,17.8,601.748224
+STR80,low_seismic,ordinary,10.3,13.7,9.1,64.20505
+STR81,med_seismic,intermediate,38.9,34.5,29.8,2204.619086
+STR82,intense_seismic,special,21.9,25.3,20.1,686.0273112
+STR83,low_seismic,ordinary,17.8,23.2,15.5,320.044
+STR84,med_seismic,intermediate,29.3,21.9,24.5,866.6154394
+STR85,intense_seismic,special,27.8,30.3,24.3,1260.881899
+STR86,low_seismic,ordinary,15.7,18.7,13.7,201.10915
+STR87,med_seismic,intermediate,39.5,31.1,26.1,1767.447793
+STR88,intense_seismic,special,25.6,27.2,21.5,922.206208
+STR89,low_seismic,ordinary,29.2,24.4,19.4,691.1056
+STR90,med_seismic,intermediate,20.8,28.2,15.7,507.645684
+STR91,intense_seismic,special,23.2,21.1,16.6,500.5635712
+STR92,low_seismic,ordinary,11.2,14.8,9.8,81.2224
+STR93,med_seismic,intermediate,35.9,26.6,22.1,1163.367592
+STR94,intense_seismic,special,28,32.4,26.8,1497.678336
+STR95,low_seismic,ordinary,12.8,16,10.6,108.544
+STR96,med_seismic,intermediate,32.1,24.4,21.3,919.6510365
+STR97,intense_seismic,special,26.3,28.7,22.9,1064.765178
+STR98,low_seismic,ordinary,27.9,23.3,18.5,601.31475
+STR99,med_seismic,intermediate,23.1,31.1,17.3,685.1206766
+STR100,intense_seismic,special,24.1,22,17.4,568.289568
+STR101,low_seismic,ordinary,9.2,11.8,8.3,45.0524
+STR102,med_seismic,intermediate,16.3,18.7,11.5,193.2304894
+STR103,intense_seismic,special,29.7,31.8,26.4,1535.91863
+STR104,low_seismic,ordinary,11.1,14.3,9.6,76.1904
+STR105,med_seismic,intermediate,34.5,27.9,23.4,1241.617309
+STR106,intense_seismic,special,19.4,17.9,15.9,340.1203344
+STR107,low_seismic,ordinary,31.4,26.3,20.8,858.8528
+STR108,med_seismic,intermediate,24.2,31.7,17.2,727.363791
+STR109,intense_seismic,special,21.1,20.7,18.2,489.6715824
+STR110,low_seismic,ordinary,8.7,12.1,8.9,46.84515
+STR111,med_seismic,intermediate,39.7,35.3,30.7,2371.658696
+STR112,intense_seismic,special,22.4,25.6,20.5,724.140032
+STR113,low_seismic,ordinary,16.4,21.2,13.6,236.4224
+STR114,med_seismic,intermediate,30.3,23.6,26.2,1032.772167
+STR115,intense_seismic,special,27.2,29.6,23.7,1175.41079
+STR116,low_seismic,ordinary,13.9,16.6,12,138.444
+STR117,med_seismic,intermediate,36.9,29.1,24.4,1444.30124
+STR118,intense_seismic,special,25.4,26.9,21.2,892.2828992
+STR119,low_seismic,ordinary,28.1,23.4,18.6,611.5122
+STR120,med_seismic,intermediate,22.7,30.6,17,650.9457675
+STR121,intense_seismic,special,24.8,22.7,18,624.210048
+STR122,low_seismic,ordinary,10.1,13.4,8.9,60.2263
+STR123,med_seismic,intermediate,33.6,24.9,22,1014.63516
+STR124,intense_seismic,special,26.1,30.3,25.1,1222.749713
+STR125,low_seismic,ordinary,12,15,9.9,89.1
+STR126,med_seismic,intermediate,32.7,24.8,21.7,970.080489
+STR127,intense_seismic,special,27,29.4,23.6,1153.994688
+STR128,low_seismic,ordinary,26.5,22.1,17.5,512.44375
+STR129,med_seismic,intermediate,21.4,28.9,16.1,548.8909808
+STR130,intense_seismic,special,23.5,21.4,16.9,523.539016
+STR131,low_seismic,ordinary,8.4,11.2,8,37.632
+STR132,med_seismic,intermediate,15.6,17.9,11,169.324155
+STR133,intense_seismic,special,28.3,30.2,25,1316.1764
+STR134,low_seismic,ordinary,10.9,14,9.4,71.722
+STR135,med_seismic,intermediate,33.8,27.3,22.9,1164.832373
+STR136,intense_seismic,special,18.9,17.4,15.4,311.9697504
+STR137,low_seismic,ordinary,31.9,26.7,21.1,898.57515
+STR138,med_seismic,intermediate,24.7,32.3,17.6,774.035262
+STR139,intense_seismic,special,21.6,21.1,18.6,522.1915776
+STR140,low_seismic,ordinary,8.9,12.3,9.1,49.80885
+STR141,med_seismic,intermediate,40.5,36,31.2,2507.6142
+STR142,intense_seismic,special,23.1,26.4,21.1,792.6456384
+STR143,low_seismic,ordinary,16.9,21.8,14,257.894
+STR144,med_seismic,intermediate,30.9,24,26.7,1091.51469
+STR145,intense_seismic,special,27.8,30.3,24.3,1260.881899
+STR146,low_seismic,ordinary,14.6,17.4,12.6,160.0452
+STR147,med_seismic,intermediate,37,29.2,24.5,1459.147725
+STR148,intense_seismic,special,25.5,27,21.3,903.36708
+STR149,low_seismic,ordinary,28.6,23.8,18.9,643.2426
+STR150,med_seismic,intermediate,22.1,29.8,16.6,602.6500935
+STR151,intense_seismic,special,24.4,22.3,17.7,593.2649184
+STR152,low_seismic,ordinary,9.7,12.8,8.5,52.768
+STR153,med_seismic,intermediate,34.3,25.4,22.5,1080.585056
+STR154,intense_seismic,special,26.7,31,25.7,1310.348424
+STR155,low_seismic,ordinary,11.6,14.5,9.6,80.736
+STR156,med_seismic,intermediate,33.2,25.2,22,1014.63516
+STR157,intense_seismic,special,27.3,29.8,23.9,1197.72613
+STR158,low_seismic,ordinary,27.4,22.9,18.2,570.9886
+STR159,med_seismic,intermediate,21.8,29.4,16.4,579.423726
+STR160,intense_seismic,special,24,21.9,17.3,560.121408
+STR161,low_seismic,ordinary,8.1,10.8,7.7,33.6798
+STR162,med_seismic,intermediate,15,17.2,10.6,150.75585
+STR163,intense_seismic,special,27.3,29.2,24.2,1188.342355
+STR164,low_seismic,ordinary,10.6,13.7,9.2,66.8012
+STR165,med_seismic,intermediate,32.9,26.6,22.3,1075.798663
+STR166,intense_seismic,special,18.4,17,15.1,290.954048
+STR167,low_seismic,ordinary,31,25.9,20.5,822.9725
+STR168,med_seismic,intermediate,24,31.4,17.1,710.37162
+STR169,intense_seismic,special,20.9,20.4,17.9,470.1215904
+STR170,low_seismic,ordinary,8.6,11.9,8.8,45.0296
+STR171,low_seismic,ordinary,8.9,11.7,8.3,43.21395
+STR172,med_seismic,intermediate,16.4,18.9,11.6,198.203922
+STR173,intense_seismic,special,29.9,31.9,26.5,1556.999444
+STR174,low_seismic,ordinary,11.3,14.5,9.8,80.2865
+STR175,med_seismic,intermediate,35.1,28.4,23.8,1307.829159
+STR176,intense_seismic,special,19.6,18.1,16,349.651456
+STR177,low_seismic,ordinary,32.5,27.2,21.5,950.3
+STR178,med_seismic,intermediate,25.2,33,18,825.1551
+STR179,intense_seismic,special,22,21.5,18.9,550.68552
+STR180,low_seismic,ordinary,9.2,12.8,9.4,55.3472
+STR181,med_seismic,intermediate,42.1,37.4,32.4,2812.207167
+STR182,intense_seismic,special,24.2,27.7,22.1,912.5740624
+STR183,low_seismic,ordinary,17.9,23.1,14.8,305.9826
+STR184,med_seismic,intermediate,32.5,25.3,28.1,1273.675528
+STR185,intense_seismic,special,29.2,31.8,25.6,1464.301978
+STR186,low_seismic,ordinary,15.2,18.1,13.1,180.2036
+STR187,med_seismic,intermediate,38.2,30.2,25.3,1608.938447
+STR188,intense_seismic,special,26.3,28,22.2,1007.041728
+STR189,low_seismic,ordinary,29.8,24.9,19.7,730.8897
+STR190,med_seismic,intermediate,23,31.1,17.3,682.1547863
+STR191,intense_seismic,special,25.3,23.1,18.4,662.4163392
+STR192,low_seismic,ordinary,9.8,13,8.7,55.419
+STR193,med_seismic,intermediate,35.2,26.2,23,1169.28504
+STR194,intense_seismic,special,27.3,31.8,26.3,1406.456251
+STR195,low_seismic,ordinary,11.7,14.6,9.7,82.8477
+STR196,med_seismic,intermediate,34,25.8,22.6,1092.83769
+STR197,intense_seismic,special,27.9,30.4,24.4,1274.818406
+STR198,low_seismic,ordinary,27.2,22.7,18,555.696
+STR199,med_seismic,intermediate,21.9,29.7,16.6,595.1922323
+STR200,intense_seismic,special,24.1,22,17.4,568.289568
